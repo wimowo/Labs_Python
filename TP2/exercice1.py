@@ -4,7 +4,7 @@ __author__ = "William Morin (2213763), Théo Manach (2058412)"
 # Vous devez écrire un programme qui demande à l'utilisateur un nombre entier
 # et qui calcule le resultat de l'equation n + nn + nnn. Voir exemples ci-dessous.
 # Vous n'avez pas le droit d'utiliser l'opération mathématique de mutliplication. 
-
+#hello
 """
 Exemple 1:
 Veuillez entrer un entier: 5
